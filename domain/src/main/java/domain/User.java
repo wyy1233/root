@@ -7,6 +7,7 @@ public class User implements Serializable{
     private Integer id;
     private String name;
     private Date birthday;
+    private int age;
 
     public User() {
     }
